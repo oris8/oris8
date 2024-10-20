@@ -1,8 +1,8 @@
 <div align="center">
-    <h3>Hi 👋, I'm <a href="https://www.notion.so/694c85dc45ce4116973046bb934e2671?v=958ab043a18440cebc46e57338d2c675">Jeongmin</a></h3>
+    <h3>Hi 👋, I'm <a href="https://sheer-snowshoe-04f.notion.site/694c85dc45ce4116973046bb934e2671?v=958ab043a18440cebc46e57338d2c675">Jeongmin</a></h3>
     <br/>
     <p align="center">
-        <a href="https://longtao.fun">
+        <a href="https://sheer-snowshoe-04f.notion.site/694c85dc45ce4116973046bb934e2671?v=958ab043a18440cebc46e57338d2c675">
             <img alt="baby-yoda" src="https://github.com/user-attachments/assets/2de420e5-9fbd-4781-9e77-68fa3420a36b" width="50"/>
         </a>
     </p>
